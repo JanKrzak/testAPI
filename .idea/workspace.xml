@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2380356-e6f6-4c78-a8eb-cc3244abddf1" name="Default" comment="" />
+    <list default="true" id="c2380356-e6f6-4c78-a8eb-cc3244abddf1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testDeletePadSlotsFromMrud.java" afterPath="$PROJECT_DIR$/src/test/java/testDeletePadSlotsFromMrud.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testFuelProduction.java" afterPath="$PROJECT_DIR$/src/test/java/testFuelProduction.java" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testDeletePadSlotsFromMrud.class" afterPath="$PROJECT_DIR$/target/test-classes/testDeletePadSlotsFromMrud.class" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testFuelProduction.class" afterPath="$PROJECT_DIR$/target/test-classes/testFuelProduction.class" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testRunner.class" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="testCreateAndUpdateMrud.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/testCreateAndUpdateMrud.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -27,17 +34,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testFuelProduction.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="testFuelProduction.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/testFuelProduction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="522">
+              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,7 +53,7 @@
       <file leaf-file-name="testUpdateMrudWithPadSlots.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/testUpdateMrudWithPadSlots.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
+            <state relative-caret-position="-1025">
               <caret line="42" column="32" lean-forward="false" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -57,15 +64,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testDeletePadSlotsFromMrud.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="testDeletePadSlotsFromMrud.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/testDeletePadSlotsFromMrud.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-187">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="1071">
+              <caret line="63" column="71" lean-forward="false" selection-start-line="63" selection-start-column="71" selection-end-line="63" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#673#674#0" expanded="true" />
-                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
+                <element signature="e#793#794#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,6 +86,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -98,11 +108,11 @@
         <option value="$PROJECT_DIR$/src/test/java/createAndUpdateMrud.java" />
         <option value="$PROJECT_DIR$/src/test/java/testApi.java" />
         <option value="$PROJECT_DIR$/src/test/java/updateMrudWithPadSlots.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testDeletePadSlotsFromMrud.java" />
         <option value="$PROJECT_DIR$/src/test/java/testUpdateMrudWithPadSlots.java" />
         <option value="$PROJECT_DIR$/src/test/java/testCreateAndUpdateMrud.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testFuelProduction.java" />
         <option value="$PROJECT_DIR$/src/test/java/testRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testDeletePadSlotsFromMrud.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testFuelProduction.java" />
       </list>
     </option>
   </component>
@@ -133,10 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,13 +172,18 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -186,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.testRunner">
+  <component name="RunManager" selected="JUnit.testDeletePadSlotsFromMrud.deleteTwoPadSlotsFromMrud">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -227,15 +238,15 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="testCreateAndUpdateMrud" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testDeletePadSlotsFromMrud.deleteOnePadSlotsFromMrud" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="mruds" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="testCreateAndUpdateMrud" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="testDeletePadSlotsFromMrud" />
+      <option name="METHOD_NAME" value="deleteOnePadSlotsFromMrud" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -247,18 +258,18 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="testDeletePadSlotsFromMrud" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testDeletePadSlotsFromMrud.deleteTwoPadSlotsFromMrud" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="mruds" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="testDeletePadSlotsFromMrud" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="deleteTwoPadSlotsFromMrud" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -307,6 +318,26 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="testFuelProduction.fuelProductionForOnePafSlot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="mruds" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testFuelProduction" />
+      <option name="METHOD_NAME" value="fuelProductionForOnePafSlot" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="testRunner" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="mruds" />
@@ -326,26 +357,6 @@
       </option>
       <envs />
       <dir value="$PROJECT_DIR$/src/test/java" />
-      <patterns />
-    </configuration>
-    <configuration name="testUpdateMrudWithPadSlots" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="mruds" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="testUpdateMrudWithPadSlots" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
       <patterns />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -390,19 +401,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.testRunner" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.testDeletePadSlotsFromMrud" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.testCreateAndUpdateMrud" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.testFuelProduction" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.testUpdateMrudWithPadSlots" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.testFuelProduction.fuelProductionForEmptyPafSlot" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.testFuelProduction" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.testFuelProduction.fuelProductionForEmptyPafSlot" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.testFuelProduction.fuelProductionForOnePafSlot" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.testDeletePadSlotsFromMrud.deleteOnePadSlotsFromMrud" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.testDeletePadSlotsFromMrud.deleteTwoPadSlotsFromMrud" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.testFuelProduction" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.testFuelProduction.fuelProductionForEmptyPafSlot" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.testDeletePadSlotsFromMrud" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.testUpdateMrudWithPadSlots" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.testCreateAndUpdateMrud" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.testDeletePadSlotsFromMrud.deleteTwoPadSlotsFromMrud" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.testDeletePadSlotsFromMrud.deleteOnePadSlotsFromMrud" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.testFuelProduction.fuelProductionForOnePafSlot" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.testFuelProduction.fuelProductionForEmptyPafSlot" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.testFuelProduction" />
       </list>
     </recent_temporary>
   </component>
@@ -424,76 +435,78 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554283704725</updated>
-      <workItem from="1554283709374" duration="9785000" />
+      <workItem from="1554283709374" duration="10042000" />
+      <workItem from="1554708560976" duration="4023000" />
+      <workItem from="1554969118727" duration="139000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="testCreateAndUpdateMrud - 2019.04.03 at 14h 19m 23s.xml">
-      <configuration name="testCreateAndUpdateMrud" configurationId="JUnit" />
+    <history-entry file="testDeletePadSlotsFromMrud_deleteOnePadSlotsFromMrud - 2019.04.08 at 10h 14m 11s.xml">
+      <configuration name="testDeletePadSlotsFromMrud.deleteOnePadSlotsFromMrud" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="testCreateAndUpdateMrud - 2019.04.03 at 14h 22m 23s.xml">
-      <configuration name="testCreateAndUpdateMrud" configurationId="JUnit" />
+    <history-entry file="testDeletePadSlotsFromMrud_deleteOnePadSlotsFromMrud - 2019.04.08 at 10h 14m 30s.xml">
+      <configuration name="testDeletePadSlotsFromMrud.deleteOnePadSlotsFromMrud" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="testCreateAndUpdateMrud - 2019.04.03 at 14h 22m 34s.xml">
-      <configuration name="testCreateAndUpdateMrud" configurationId="JUnit" />
+    <history-entry file="testDeletePadSlotsFromMrud_deleteTwoPadSlotsFromMrud - 2019.04.08 at 10h 17m 33s.xml">
+      <configuration name="testDeletePadSlotsFromMrud.deleteTwoPadSlotsFromMrud" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="testCreateAndUpdateMrud - 2019.04.03 at 14h 22m 43s.xml">
-      <configuration name="testCreateAndUpdateMrud" configurationId="JUnit" />
+    <history-entry file="testDeletePadSlotsFromMrud_deleteTwoPadSlotsFromMrud - 2019.04.08 at 10h 18m 33s.xml">
+      <configuration name="testDeletePadSlotsFromMrud.deleteTwoPadSlotsFromMrud" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="testDeletePadSlotsFromMrud - 2019.04.03 at 14h 23m 19s.xml">
-      <configuration name="testDeletePadSlotsFromMrud" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testFuelProduction - 2019.04.03 at 14h 22m 53s.xml">
-      <configuration name="testFuelProduction" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testFuelProduction - 2019.04.03 at 14h 26m 18s.xml">
-      <configuration name="testFuelProduction" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testFuelProduction_fuelProductionForEmptyPafSlot - 2019.04.03 at 14h 25m 59s.xml">
+    <history-entry file="testFuelProduction_fuelProductionForEmptyPafSlot - 2019.04.08 at 09h 39m 04s.xml">
       <configuration name="testFuelProduction.fuelProductionForEmptyPafSlot" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="testRunner - 2019.04.03 at 14h 28m 12s.xml">
-      <configuration name="testRunner" configurationId="JUnit" />
+    <history-entry file="testFuelProduction_fuelProductionForOnePafSlot - 2019.04.08 at 09h 37m 18s.xml">
+      <configuration name="testFuelProduction.fuelProductionForOnePafSlot" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="testUpdateMrudWithPadSlots - 2019.04.03 at 14h 23m 03s.xml">
-      <configuration name="testUpdateMrudWithPadSlots" configurationId="JUnit" />
+    <history-entry file="testFuelProduction_fuelProductionForOnePafSlot - 2019.04.08 at 09h 37m 46s.xml">
+      <configuration name="testFuelProduction.fuelProductionForOnePafSlot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testFuelProduction_fuelProductionForOnePafSlot - 2019.04.08 at 09h 57m 40s.xml">
+      <configuration name="testFuelProduction.fuelProductionForOnePafSlot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testFuelProduction_fuelProductionForOnePafSlot - 2019.04.08 at 09h 58m 08s.xml">
+      <configuration name="testFuelProduction.fuelProductionForOnePafSlot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testFuelProduction_fuelProductionForOnePafSlot - 2019.04.08 at 10h 03m 34s.xml">
+      <configuration name="testFuelProduction.fuelProductionForOnePafSlot" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9785000" />
+    <option name="totallyTimeSpent" value="14204000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25578406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -504,19 +517,112 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/testApi.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/testCreateAndUpdateMrud.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="85">
+          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testFuelProduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testUpdateMrudWithPadSlots.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="42" column="32" lean-forward="false" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testDeletePadSlotsFromMrud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="63" column="71" lean-forward="true" selection-start-line="63" selection-start-column="71" selection-end-line="63" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testCreateAndUpdateMrud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testUpdateMrudWithPadSlots.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="42" column="32" lean-forward="false" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testDeletePadSlotsFromMrud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testFuelProduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testApi.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -525,6 +631,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testRunner.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/testCreateAndUpdateMrud.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -537,21 +644,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testDeletePadSlotsFromMrud.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/testFuelProduction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="522">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testUpdateMrudWithPadSlots.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="-1025">
           <caret line="42" column="32" lean-forward="false" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -561,24 +670,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/testDeletePadSlotsFromMrud.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testFuelProduction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="1071">
+          <caret line="63" column="71" lean-forward="false" selection-start-line="63" selection-start-column="71" selection-end-line="63" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
           </folding>
         </state>
       </provider>

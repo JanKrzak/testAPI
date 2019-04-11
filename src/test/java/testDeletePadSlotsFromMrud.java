@@ -5,6 +5,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import static com.jayway.restassured.RestAssured.given;
+import static com.jayway.restassured.RestAssured.when;
 import static org.hamcrest.Matchers.equalTo;
 
 public class testDeletePadSlotsFromMrud {
@@ -27,12 +28,13 @@ public class testDeletePadSlotsFromMrud {
     {
 
         given()
-                .contentType(ContentType.JSON).
-        when().
-                delete("http://54.93.88.239/mruds/1/pafSlots/slot0/paf").
+                .contentType(ContentType.JSON)
+                .delete("http://54.93.88.239/mruds/1/pafSlots/slot0/paf");
+        when()
+                .get("http://54.93.88.239/mruds/1/pafSlots/slot0/paf").
         then().
                 assertThat().
-                statusCode(200);
+                statusCode(405);
 
         given()
                 .contentType(ContentType.JSON).
@@ -46,30 +48,26 @@ public class testDeletePadSlotsFromMrud {
     }
 
     @Test
-    public void deleteTwoPadSlotsFromMrud()
-    {
+    public void deleteTwoPadSlotsFromMrud() {
+
 
         given()
-                .contentType(ContentType.JSON).
+                .delete("http://54.93.88.239/mruds/1/pafSlots/slot0/paf");
+        given()
+                .delete("http://54.93.88.239/mruds/1/pafSlots/slot1/paf");
         when().
-                delete("http://54.93.88.239/mruds/1/pafSlots/slot0/paf").
-        then().
+                get("http://54.93.88.239/mruds/1/pafSlots/slot0/paf").
+                then().
                 assertThat().
-                statusCode(200);
-
-        given()
-                .contentType(ContentType.JSON).
-        when().
-                delete("http://54.93.88.239/mruds/1/pafSlots/slot1/paf").
-        then().
+                statusCode(405);
+        when()
+                .get("http://54.93.88.239/mruds/1/pafSlots/slot1/paf").
+                then().
                 assertThat().
-                statusCode(200);
-
-        given()
-                .contentType(ContentType.JSON).
+                statusCode(405);
         when().
                 get("http://54.93.88.239/mruds/1").
-        then().
+                then().
                 assertThat().
                 statusCode(200).
                 body("fuelProductionRate", equalTo(1)).
